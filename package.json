@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@kameleoon/react-sdk": "/Users/esen/kameleoon/javascript-sdk-packages/packages/react-sdk/kameleoon-react-sdk-v6.1.3.tgz",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
